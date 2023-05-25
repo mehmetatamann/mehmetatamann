@@ -7,6 +7,6 @@
 <a href="mailto:atamannmehmet@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="40" /></a>
 </p>
 
-<center><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cli3qia4m010708l1dot2h401/stats?cursusId=9&coalitionId=198" alt="mataman's 42 stats" /></a></center>
+<a align="center" href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cli3qia4m010708l1dot2h401/stats?cursusId=9&coalitionId=198" alt="mataman's 42 stats" /></a>
 
-<center><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cli3qia4m010708l1dot2h401/stats?cursusId=21&coalitionId=229" alt="mataman's 42 stats" /></a></center>
+<a align="center" href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cli3qia4m010708l1dot2h401/stats?cursusId=21&coalitionId=229" alt="mataman's 42 stats" /></a>
